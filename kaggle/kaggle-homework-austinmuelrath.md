@@ -1,6 +1,4 @@
-# Kaggle Irrigation
-
-## Kaggle Homework 1
+# Kaggle Homework 1
 
 ### Referenced Notebooks
 
@@ -46,3 +44,7 @@ Boosting was faster, more performant, and easier to tune.
 **What is your "phase 2" plan to improve your model performance? Note that although the leaderboard is fun to watch, you are not graded on it (and a shake up often occurs at the end!)**
 
 Definitely some feature engineering. This is the key way we can actually improve models by large magins.
+
+# Kaggle Homework 2
+
+> See [homework 3 /discussion](homework-3/homework_3.ipynb#discussion)
