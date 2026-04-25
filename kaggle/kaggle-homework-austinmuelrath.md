@@ -1,4 +1,12 @@
-# Kaggle Homework 1
+# Overall
+
+| Model       | Leaderboard Place | Balanced Accuracy Score | HW Created | 
+|-------------|-------------------|-------------------------|------------|
+| `best_rf`   | -                 | 0.94561                 | 2          |
+| `best_cb`   | 1801              | 0.95586                 | 2          |
+| `final_xgb` | 1766              | 0.96013                 | 3          |
+
+## Kaggle Homework 1
 
 ### Referenced Notebooks
 
@@ -45,6 +53,6 @@ Boosting was faster, more performant, and easier to tune.
 
 Definitely some feature engineering. This is the key way we can actually improve models by large magins.
 
-# Kaggle Homework 2
+## Kaggle Homework 2
 
 > See [homework 3 /discussion](homework-3/homework_3.ipynb#discussion)
