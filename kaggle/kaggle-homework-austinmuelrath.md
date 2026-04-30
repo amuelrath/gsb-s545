@@ -5,6 +5,7 @@
 | `best_rf`   | -                 | 0.94561                 | 2          |
 | `best_cb`   | 1801              | 0.95586                 | 2          |
 | `final_xgb` | 1766              | 0.96013                 | 3          |
+| `stack`     |                   |                         | 4          |
 
 ## Kaggle Homework 1
 
